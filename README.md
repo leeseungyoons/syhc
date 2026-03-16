@@ -1,5 +1,8 @@
 # Sports Management Streamlit App
 
+링크 : https://e23a4kmfayjz9vb2slwzyw.streamlit.app/
+
+
 Streamlit을 활용해 구현한 **스포츠 종목 관리 미니 프로젝트**입니다.  
 야구, 축구, 농구 등 다양한 스포츠 종목 데이터를 카드 형태로 조회하고, 사용자가 직접 **추가 / 수정 / 삭제 / 검색 / 필터링**할 수 있도록 구성했습니다.
 
